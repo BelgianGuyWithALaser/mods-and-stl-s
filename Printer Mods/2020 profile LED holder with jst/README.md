@@ -9,5 +9,5 @@ Materials needed :
 1x m3 T-nuts/hammer heads
 1x jst-xh 2.5 3pins
 
-![led holder]((img/ledholder.png)
+![led holder](img/ledholder.png)
 
