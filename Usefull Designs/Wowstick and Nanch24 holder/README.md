@@ -2,5 +2,5 @@
 
 Small and stable footprint for placement on a desktop.
 
-![holder](holder.png)
+![holder](img/holder.png)
 
