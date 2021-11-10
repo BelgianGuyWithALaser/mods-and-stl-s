@@ -6,5 +6,8 @@ no glue is needed, should be a fraction fit. (printer should be calibrated)
 
 print with a .4mm nozzle.
 
-![holder](img/x.png)
+Pictures where made with V1, STL's are V2 with improvements already made.
+(less 6x3 magnets, better grip)
+
+![holder](img/ES126.png)
 
